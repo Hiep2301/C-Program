@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "archivo.h": "c",
+    "stdlib.h": "c",
+    "CodeWithC-Student-Record-System.C": "cpp"
+  }
+}

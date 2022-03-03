@@ -1,0 +1,6 @@
+/Debug/
+/nbproject/
+/dist/
+/build/
+/.gitignore/
+*.exe
